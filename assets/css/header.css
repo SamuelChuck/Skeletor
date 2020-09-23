@@ -1,0 +1,9 @@
+/*!
+ * Search v1.0.0 (https://razzelrabbit.com)
+ * Copyright 2016-2020 RazzelRabbit, Inc.
+ * Unlicensed
+ */
+.elementor-location-header .menu-item a.elementor-item::before, 
+.elementor-location-header .menu-item a.elementor-item::after{
+    border-radius: 4px;
+}

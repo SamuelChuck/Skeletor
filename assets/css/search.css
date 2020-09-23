@@ -1,0 +1,23 @@
+/*!
+ * Search v1.0.0 (https://razzelrabbit.com)
+ * Copyright 2016-2020 RazzelRabbit, Inc.
+ * Unlicensed
+ */
+ 
+.jet-ajax-search__categories-select {
+     display: block !important;
+     margin-bottom: 0;
+}
+ .jet-ajax-search .jet-ajax-search__categories .chosen-container-single {
+     display: none !important;
+}
+ .jet-ajax-search .jet-ajax-search__categories {
+     width: auto !important;
+}
+ .jet-ajax-search__fields-holder {
+     display: flex;
+     flex-direction: row-reverse;
+}
+ .jet-ajax-search__categories-select-icon.fa.fa-caret-down {
+     right: 7px !important;
+}
